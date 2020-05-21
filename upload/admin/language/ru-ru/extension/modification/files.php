@@ -1,15 +1,15 @@
 <?php
 // Heading
-$_['heading_title']      = 'Modified files';
+$_['heading_title']      = 'Модифицированные файлы';
 
 // Text
-$_['text_modifications'] = 'Modifications';
-$_['text_list']          = 'Modified files List';
-$_['text_no_results']    = 'No files modified by OCMOD.';
-$_['text_file']          = 'File';
-$_['text_modification']  = 'Modification';
-$_['text_version']       = 'Version';
-$_['text_author']        = 'Author';
+$_['text_modifications'] = 'Модификации';
+$_['text_list']          = 'Список измененных файлов';
+$_['text_no_results']    = 'Нет файлов, измененных OCMOD.';
+$_['text_file']          = 'Файл';
+$_['text_modification']  = 'Модификация';
+$_['text_version']       = 'Версия';
+$_['text_author']        = 'Автор';
 
 // Button
-$_['button_return']      = 'Return modifications';
+$_['button_return']      = 'Вернуться в Модификации';

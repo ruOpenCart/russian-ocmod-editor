@@ -1,14 +1,14 @@
 <?php
 // Heading
-$_['heading_title']      = 'Analyze modifications';
+$_['heading_title']      = 'Анализ модификации';
 
 // Text
-$_['text_modifications'] = 'Modifications';
-$_['text_help_diff']     = '<strong>Help:</strong><br>On the left the original file and on the right the modified file.';
+$_['text_modifications'] = 'Модификации';
+$_['text_help_diff']     = '<strong>Помощь:</strong><br>Слева исходный файл и справа измененный файл.';
 
 // Button
-$_['button_return']      = 'Return modified files';
+$_['button_return']      = 'Вернуться в Модифицированные файлы';
 
 // Error
-$_['error_permission']   = 'Warning: You do not have permission to view Modified File!';
-$_['error_file']         = 'File not found!';
+$_['error_permission']   = 'Предупреждение: у Вас нет прав для просмотра измененного файла!';
+$_['error_file']         = 'Файл не найден!';
